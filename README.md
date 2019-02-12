@@ -1,4 +1,4 @@
-### Text detection in images using Google Vision API
+### Text detection on images using Google Vision API
 
 This respository contains a python script for text detection using Google Vision API
 
