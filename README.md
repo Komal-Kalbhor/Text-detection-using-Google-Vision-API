@@ -16,9 +16,9 @@ Cloud Vision API features include Label detection, Web detection, OCR, Handwriti
 4.  Import required libraries
 5.  Set the environment variable "GOOGLE_APPLICATION_CREDENTIALS" to the json file in which credentials are stored
 6.  Read the input:
-        - Input can be a single image or multiple images. If multiple images make sure to loop through all images.
-        - Input can be a video file from which images/frames need to be captured
-               - Fuction to capture frames from video using [OpenCV](https://opencv.org/)
+- Input can be a single image or multiple images. If multiple images make sure to loop through all images.
+- Input can be a video file from which images/frames need to be captured
+- Fuction to capture frames from video using [OpenCV](https://opencv.org/)
 7.  Call the text detection API passing image as input
 8.  The API returns json response
 9.  Read the required text from json file
