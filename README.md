@@ -2,7 +2,7 @@
 
 This respository contains a python script for text detection using Google Vision API
 
-##### [Google cloud vision](https://cloud.google.com/vision/) derives insight from the images using powerful pretrained API models.
+[Google cloud vision](https://cloud.google.com/vision/) derives insight from the images using powerful pretrained API models.
 Cloud Vision API features include Label detection, Web detection, OCR, Handwriting detection, Logo detection, Landmark detection, Face detection, ML Kit integration.
 
 #### Requirements :
